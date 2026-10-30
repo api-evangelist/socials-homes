@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-socials-homes is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://socials.homes/
+Socials Homes is an international housing platform that scans over 2,000 housing websites 24/7 and delivers verified rental listings—rooms, studios, and apartments—to users via WhatsApp and its web app. It serves expatriates and travelers across Europe and other regions, offering instant alerts, exclusive member discounts, and premium VIP Keys Pass plans. The service aims to simplify finding a new home abroad with real‑time notifications and curated listings.
+
+**Areas:** Company · Housing · Rental · International · WhatsApp · RealEstate
+
+## socials-homes on APIs.io
+
+Everything profiled for socials-homes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/socials-homes/](https://apis.io/providers/socials-homes/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Socials Homes API](https://apis.io/apis/socials-homes/socials-homes-api/) — API for Socials Homes platform providing housing listings and related data.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Socials Homes Context](https://apis.io/jsonld/socials-homes/socials-homes-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [socials-homes API Rules](https://apis.io/rules/socials-homes/socials-homes-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Socials Homes Authentication](https://apis.io/security/socials-homes/socials-homes-authentication/)
+- [Socials Homes Domain Security](https://apis.io/security/socials-homes/socials-homes-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Socials Homes Scopes](https://apis.io/scopes/socials-homes/socials-homes-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Socials Homes Plans Pricing](https://apis.io/plans/socials-homes/socials-homes-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Socials Homes Rate Limits](https://apis.io/rate-limits/socials-homes/socials-homes-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://socials.homes/)
+- [Documentation](https://www.socials.homes/developers)
+- [Getting started](https://www.socials.homes/how-it-works)
+- [API reference](https://www.socials.homes/openapi.json)
+- [Pricing](https://www.socials.homes/pricing)
+- [Sign up](https://www.socials.homes/signup)
+- [Support](https://www.socials.homes/contact)
+- [Blog](https://www.socials.homes/blog)
+- [Terms of service](https://www.socials.homes/terms)
+- [Privacy policy](https://www.socials.homes/privacy)
+- [GitHub](https://github.com/yosocials)
+
+## API Evangelist rating
+
+**Kin Score 52.6** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 14.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/socials-homes/](https://apis.io/providers/socials-homes/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for socials-homes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/socials-homes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
